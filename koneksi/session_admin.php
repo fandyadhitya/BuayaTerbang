@@ -1,0 +1,10 @@
+<?php
+if(!session_start()){
+session_start();
+}
+if(!isset($_SESSION['admin'])){
+?>
+<script>document.location.href="../administrator/masuk.php"</script>
+<?php
+}
+?>
