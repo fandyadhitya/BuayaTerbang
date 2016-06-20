@@ -19,8 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `cicak_terbang_db`
 --
-CREATE DATABASE IF NOT EXISTS `cicak_terbang_db` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `cicak_terbang_db`;
+CREATE DATABASE IF NOT EXISTS `buaya_terbang_db` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `buaya_terbang_db`;
 
 -- --------------------------------------------------------
 
